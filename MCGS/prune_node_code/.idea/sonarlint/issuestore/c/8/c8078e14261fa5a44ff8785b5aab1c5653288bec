@@ -1,0 +1,6 @@
+
+tpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(™ô¶¸8Ô„Ûû¬1
+qpython:S117õ"MRename this parameter "T" to match the regular expression ^[_a-z][a-z0-9_]*$.(—Ù­‚ûÿÿÿÿ8Ô„Ûû¬1
+opython:S100õ"KRename method "__getPi" to match the regular expression ^[a-z_][a-z0-9_]*$.(—Ù­‚ûÿÿÿÿ8Ô„Ûû¬1
+zpython:S117€"VRename this parameter "searchTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ðÅ©èûÿÿÿÿ8Ô„Ûû¬1
+vpython:S100€"RRename method "set_searchTime" to match the regular expression ^[a-z_][a-z0-9_]*$.(ðÅ©èûÿÿÿÿ8Õ„Ûû¬1

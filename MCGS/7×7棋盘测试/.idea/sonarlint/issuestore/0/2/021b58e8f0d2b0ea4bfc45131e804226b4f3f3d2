@@ -1,0 +1,7 @@
+
+mpython:S1192m"NDefine a constant instead of duplicating this literal "./model_data/" 3 times.(î„8ÉıµÊ¯1
+<python:S125"Remove this commented out code.(Ö¨Íz8ÉıµÊ¯1
+>python:S125Ÿ"Remove this commented out code.(şöÿÊ8ÊıµÊ¯1
+>python:S125¶"Remove this commented out code.(şöÿÊ8ÊıµÊ¯1
+|python:S117Ê"]Rename this local variable "completeName" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ğÔ8ÊıµÊ¯1
+|python:S117Ğ"]Rename this local variable "completeName" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ğÔ8ÊıµÊ¯1

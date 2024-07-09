@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/Desktop/horiki/code/self_play" />
+    <content url="file://$USER_HOME$/Desktop/我的处女作/code/AlphaZero_Connect4" />
+    <content url="file://$USER_HOME$/Desktop/自博弈" />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../../HexUI1" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (DeltaZero)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="397402bc-ff62-40fc-a548-c377c31330a0" />
+  </component>
+</module>

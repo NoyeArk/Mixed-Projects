@@ -1,0 +1,9 @@
+
+Wpython:S1144ϋ"2Remove this unused class-private '__getPi' method.(—Ω­‚ϋÿÿÿÿ8™ΌΚ―1
+Cpython:S125"Remove this commented out code.(¶‰ψÿÿÿÿ8™ΌΚ―1
+>python:S125"Remove this commented out code.(τΏ’8™ΌΚ―1
+tpython:S3776ε"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(™τ¶Έ8ΌΚ―1
+qpython:S117ϋ"MRename this parameter "T" to match the regular expression ^[_a-z][a-z0-9_]*$.(—Ω­‚ϋÿÿÿÿ8ΌΚ―1
+opython:S100ϋ"KRename method "__getPi" to match the regular expression ^[a-z_][a-z0-9_]*$.(—Ω­‚ϋÿÿÿÿ8ΌΚ―1
+>python:S125„"Remove this commented out code.(¤»±Π8ΌΚ―1
+>python:S125"Remove this commented out code.(‰—ρή8ΌΚ―1

@@ -1,0 +1,11 @@
+
+ypython:S117"]Rename this local variable "completeName" to match the regular expression ^[_a-z][a-z0-9_]*$.(£ÉøÔýÿÿÿÿ
+ypython:S117!"]Rename this local variable "completeName" to match the regular expression ^[_a-z][a-z0-9_]*$.(£ÉøÔýÿÿÿÿ
+Ipython:S1172'",Remove the unused function parameter "temp".(º¡¢Øûÿÿÿÿ
+mpython:S1542'"PRename function "UCT_search" to match the regular expression ^[a-z_][a-z0-9_]*$.(º¡¢Øûÿÿÿÿ
+<python:S1481)"%Remove the unused local variable "i".(Öþó
+6python:S125;"Remove this commented out code.(¤»±Ð
+Gpython:S1481\"/Remove the unused local variable "board_state".(ƒ‚¿÷
+lpython:S3776@"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ƒú•æ
+;python:S125n"Remove this commented out code.(Ñú‘­ùÿÿÿÿ
+rpython:S3776€"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¾¦ç®ýÿÿÿÿ

@@ -1,0 +1,9 @@
+
+Xpython:S1481¤"3Replace unused local variable "chess_num" with "_".(ÕÏïöıÿÿÿÿ8”¢ÿ©1
+Cpython:S125©"Remove this commented out code.(Ìï®Îşÿÿÿÿ8”¢ÿ©1
+tpython:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(™ô¶¸8•¢ÿ©1
+jpython:S117õ"MRename this parameter "T" to match the regular expression ^[_a-z][a-z0-9_]*$.(—Ù­‚ûÿÿÿÿ
+hpython:S100õ"KRename method "__getPi" to match the regular expression ^[a-z_][a-z0-9_]*$.(—Ù­‚ûÿÿÿÿ
+spython:S117Š"VRename this parameter "searchTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğÅ©èûÿÿÿÿ
+opython:S100Š"RRename method "set_searchTime" to match the regular expression ^[a-z_][a-z0-9_]*$.(ğÅ©èûÿÿÿÿ
+7python:S125"Remove this commented out code.(‰—ñŞ

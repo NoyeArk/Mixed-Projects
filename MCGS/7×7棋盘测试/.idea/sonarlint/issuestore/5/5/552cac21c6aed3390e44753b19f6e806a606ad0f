@@ -1,0 +1,9 @@
+
+fpython:S1192"NDefine a constant instead of duplicating this literal "./model_data/" 5 times.(•ŽðÔ
+tpython:S117"]Rename this local variable "completeName" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ŽðÔ
+tpython:S117"]Rename this local variable "completeName" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ŽðÔ
+mpython:S1854L"PRemove this assignment to local variable 'update_size'; the value is never used.(°»›èûÿÿÿÿ
+Mpython:S1481X"5Replace unused local variable "state_batch" with "_".(‹»æß
+;python:S125t"Remove this commented out code.(Ð³ŸÇÿÿÿÿÿ
+<python:S125‘"Remove this commented out code.(Áê«‚ýÿÿÿÿ
+7python:S125¤"Remove this commented out code.(öÝ¦

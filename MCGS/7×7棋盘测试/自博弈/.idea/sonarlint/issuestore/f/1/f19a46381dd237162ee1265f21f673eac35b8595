@@ -1,0 +1,5 @@
+
+1python:S1700 "Rename field "board"(±úÚ»şÿÿÿÿ
+jpython:S117Z"SRename this local variable "Vn" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü¯º
+opython:S117`"SRename this local variable "Vw" to match the regular expression ^[_a-z][a-z0-9_]*$.(şş³×üÿÿÿÿ
+lpython:S3776N"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(’è

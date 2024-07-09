@@ -1,0 +1,10 @@
+
+Kpython:S1481(".Remove the unused local variable "start_time".(Õèî×ıÿÿÿÿ
+Apython:S1481R")Remove the unused local variable "score".(³‚ïø
+lpython:S3776!"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Òšâ½
+6python:S1253"Remove this commented out code.(˜³‹Â
+6python:S1255"Remove this commented out code.(Çá´´
+6python:S125="Remove this commented out code.(×®®›
+;python:S125K"Remove this commented out code.(€ğáûÿÿÿÿ
+dpython:S117p"MRename this parameter "T" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş‘Ò
+bpython:S100p"KRename method "__getPi" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ş‘Ò

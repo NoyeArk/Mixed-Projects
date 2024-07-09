@@ -1,0 +1,7 @@
+
+Bpython:S125J"Remove this commented out code.(—¢å´øÿÿÿÿ8÷…Ç•²1
+tpython:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(™ô¶¸8†”ðû¬1
+qpython:S117€"MRename this parameter "T" to match the regular expression ^[_a-z][a-z0-9_]*$.(—Ù­‚ûÿÿÿÿ8†”ðû¬1
+opython:S100€"KRename method "__getPi" to match the regular expression ^[a-z_][a-z0-9_]*$.(—Ù­‚ûÿÿÿÿ8†”ðû¬1
+zpython:S117”"VRename this parameter "searchTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ðÅ©èûÿÿÿÿ8†”ðû¬1
+vpython:S100”"RRename method "set_searchTime" to match the regular expression ^[a-z_][a-z0-9_]*$.(ðÅ©èûÿÿÿÿ8†”ðû¬1

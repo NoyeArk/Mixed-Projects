@@ -1,0 +1,5 @@
+
+dpython:S1192"KDefine a constant instead of duplicating this literal 'Bad choice' 3 times.(ıâË°
+3python:S1700"Rename field "minimax"(É·Éáÿÿÿÿÿ
+Mpython:S1481*"0Replace unused local variable "winner" with "_".(ÿªüæûÿÿÿÿ
+lpython:S3776 "TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(œŸ²_

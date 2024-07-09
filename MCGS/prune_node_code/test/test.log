@@ -1,0 +1,5 @@
+07-14-2023 20:14:24 root:DEBUG:This is a debug message
+07-14-2023 20:14:24 root:INFO:This is an info message
+07-14-2023 20:14:24 root:WARNING:This is a warning message
+07-14-2023 20:14:24 root:ERROR:This is an error message
+07-14-2023 20:14:24 root:CRITICAL:This is a critical message
